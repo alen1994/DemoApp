@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="btnSecondText">Open second activity</string>
+    <string name="secondText">This is second activity</string>
+    <string name="customText">custom text</string>
+    <string name="enterText">Enter text</string>
+    <string name="confirmText">Potrdi</string>
+</resources>
